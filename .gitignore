@@ -1,0 +1,8 @@
+out/
+cache/
+__pycache__/
+data/*
+raw/
+!data/README.md
+*.pyc
+.DS_Store
